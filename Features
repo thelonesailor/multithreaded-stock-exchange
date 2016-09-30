@@ -1,0 +1,7 @@
+Some features of this multithreaded-stock-exchange are:
+
+It simulates real stock exchange
+Multithreading in JAVA is used
+It has 3 independent threads: Generation Thread, Exchange thread and Cleanup thread.
+Inter thread synchronisation is done and synchronised data structure vector is used
+All invalid inputs have been handled
